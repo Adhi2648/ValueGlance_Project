@@ -34,4 +34,4 @@
 
 ## Deployed App
 
-Link -
+Link - https://valueglance-project-frontend.onrender.com
